@@ -9,7 +9,7 @@ This Python script allows you to create multiple profiles using GoLogin API. It 
 1. Ensure you have Python installed on your system.
 2. Clone this repository to your local machine.
 3. Install the required dependencies:
-    ```
+  
 4. Obtain your GoLogin token from the GoLogin dashboard.
 5. Run the script:
    ```
@@ -34,6 +34,3 @@ This Python script allows you to create multiple profiles using GoLogin API. It 
 This script is provided as-is without any warranties. Use it at your own risk. The developer shall not be responsible for any misuse or damage caused by this script.
 
 Feel free to contribute to this project by submitting pull requests or reporting issues.
-```
-
-Now everything is combined and formatted for a clear and concise README file.
